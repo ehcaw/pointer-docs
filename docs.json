@@ -112,7 +112,7 @@
   },
   "errors": {
     "404": {
-      "redirect": "false",
+      "redirect": false,
       "description": "check [google](https://www.google.com)"
     }
   }
