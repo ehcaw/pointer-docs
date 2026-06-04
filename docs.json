@@ -100,7 +100,8 @@
       "perplexity",
       "mcp",
       "cursor",
-      "vscode"
+      "vscode",
+      "download-pdf"
     ]
   },
   "footer": {
